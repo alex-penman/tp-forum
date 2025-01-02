@@ -56,8 +56,6 @@
 /vendor/data/GeoLite2-City.mmdb
 /vendor/data/GeoLite2-ASN.mmdb
 
-# We provide a .sample but people can use newer versions if they want to
-.ruby-version
 .ruby-gemset
 .tool-versions
 
